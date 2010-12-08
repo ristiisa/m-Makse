@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+
+
+<Button android:layout_height="wrap_content" android:id="@+id/Button01" android:layout_width="fill_parent" android:layout_gravity="center" android:text="[Vali kontakt]"></Button>
+
+<EditText android:layout_height="wrap_content" android:layout_width="fill_parent" android:gravity="center" android:text="25.0" android:id="@+id/EditText01"></EditText><Button android:id="@+id/Button02" android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="Helista" android:layout_gravity="center"></Button>
+
+
+
+</LinearLayout>
